@@ -6,7 +6,7 @@
 
 Лабораторная работа 1 расположена в каталоге [Lab.work.1](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1)
 * [Отчет по ЛР](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.1/Report_L.W.1_Alekseev.A.D.docx).
-* [Исходный код](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1/source_code).
+* [Исходный код](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.1/GOST_28147-89.py).
 * [Инструкция как запустить программный модуль](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.1/README.md).
 * [Входные и выходные](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1/input_otput) данные (файлы для обработки, сформированные файлы в результате выполнения программы, скриншоты и т д).
 
