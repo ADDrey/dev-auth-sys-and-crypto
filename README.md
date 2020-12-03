@@ -7,13 +7,13 @@
 Лабораторная работа 1 расположена в каталоге [Lab.work.1](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1)
 * [Отчет по ЛР](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.1/Report_L.W.1_Alekseev.A.D.docx).
 * [Исходный код](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1/source_code).
-* [Инструкция как запустить программный модуль](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.1/README.md) (в каждой папке можно сделать файл Readme.MD, где описать как запустить программу, какие зависимости нужно установить и т.д.).
+* [Инструкция как запустить программный модуль](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.1/README.md).
 * [Входные и выходные](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1/input_otput) данные (файлы для обработки, сформированные файлы в результате выполнения программы, скриншоты и т д).
 
 Лабораторная работа 2 расположена в каталоге [Lab.work.2](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.2)
 * [Отчет по ЛР](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.2/Report_L.W.2_Alekseev.A.D.docx).
 * [Исходный код](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.2/source_code).
-* [Инструкция как запустить программный модуль](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.2/README.md) (в каждой папке можно сделать файл Readme.MD, где описать как запустить программу, какие зависимости нужно установить и т.д.).
+* [Инструкция как запустить программный модуль](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.2/README.md).
 * [Входные и выходные](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.2/input_otput) данные (файлы для обработки, сформированные файлы в результате выполнения программы, скриншоты и т д).
 
 ### Порядок сдачи лабораторных работ
