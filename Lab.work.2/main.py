@@ -43,9 +43,9 @@ def login():
 def check_login(username):
     with open("data.json") as datafile:
         my_json = json.load(datafile)
-    for user in my_json['users']:
-        if user['login'] == username:
-            return user['email']
+    for usr in my_json['users']:
+        if usr['login'] == username:
+            return usr['email']
     return ""
 
 
@@ -72,9 +72,9 @@ def send_email(email, onetime_pass):
 def save_hash(email, onetime_pass):
     with open("data.json", 'r+') as datafile:
         my_json = json.load(datafile)
-    for user in my_json['users']:
-        if user['email'] == email:
-            user['md5_hash'] = hashlib.md5(onetime_pass.encode()).hexdigest()
+    for usr in my_json['users']:
+        if usr['email'] == email:
+            usr['md5_hash'] = hashlib.md5(onetime_pass.encode()).hexdigest()
     with open("data.json", 'w') as datafile:
         json.dump(my_json, datafile)
 
@@ -88,26 +88,22 @@ def get_username():
     with open("current_user.txt", 'r') as file:
         return file.read()
 
-
 def compare_hashes(username, recieved_pass):
     with open("data.json", 'r') as datafile:
         my_json = json.load(datafile)
-    for user in my_json['users']:
-        if user['login'] == username:
-            if user['md5_hash'] == hashlib.md5(recieved_pass.encode()).hexdigest():
+    for usr in my_json['users']:
+        if usr['login'] == username:
+            if usr['md5_hash'] == hashlib.md5(recieved_pass.encode()).hexdigest():
                 return True
             else:
                 return False
     return False
-
 
 def random_string():
     length = randint(7, 15)
     letters = string.ascii_lowercase
     result_str = ''.join(choice(letters) for i in range(length))
     return result_str
-
-
 
 if __name__ == '__main__':
     app.run()
