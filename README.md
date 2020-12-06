@@ -11,8 +11,8 @@
 * [Входные и выходные](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.1/input_otput) данные (файлы для обработки, сформированные файлы в результате выполнения программы, скриншоты и т д).
 
 Лабораторная работа 2 расположена в каталоге [Lab.work.2](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.2)
-* [Отчет по ЛР](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.2/Report_L.W.2_Alekseev.A.D.docx).
-* [Исходный код](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.2/source_code).
+* Отчет по ЛР в электроной почте.
+* [Исходный код](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.2/main.py).
 * [Инструкция как запустить программный модуль](https://github.com/ADDrey/dev-auth-sys-and-crypto/blob/main/Lab.work.2/README.md).
 * [Входные и выходные](https://github.com/ADDrey/dev-auth-sys-and-crypto/tree/main/Lab.work.2/input_otput) данные (файлы для обработки, сформированные файлы в результате выполнения программы, скриншоты и т д).
 
