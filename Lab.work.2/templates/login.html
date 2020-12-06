@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="UTF-8">
+		<title>Аутентификация - Сайт</title>
+    </head>
+    <body>
+        <hr>
+        {% if messages %}
+			<p>{{ message }}</p>
+        {% endif %}
+		<h1>Вход</h1>
+    <form action="" method="post">
+        <p>
+			<label for="username">Логин</label>
+			<input type="text" name="username">
+		</p>
+		<p>
+			<input type="submit" value="Выслать пароль">
+		</p>
+    </form>
+</body>
+</html>
